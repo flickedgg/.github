@@ -11,7 +11,8 @@ Queue • Parties • Map Vote • Ratings • Match History
 
 <br />
 
-![FLICKED](./assests/video.mp4)
+<img width="865" height="529" alt="image" src="https://github.com/user-attachments/assets/a64a4e88-39fa-46e6-b0b2-6f8348151804" />
+
 
 </div>
 
