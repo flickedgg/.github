@@ -31,6 +31,7 @@ Queue • Parties • Map Vote • Ratings • Match History
 | Repository | Purpose |
 | :--- | :--- |
 | **[FLICKED](https://github.com/flickedgg/FLICKED)** | Core matchmaking, admin panel, web & launcher |
+| **[FLICKED-docs](https://github.com/flickedgg/FLICKED-docs)** | Docs website source code |
 | **[MatchZy-FLICKED](https://github.com/flickedgg/MatchZy-FLICKED)** | Custom CS2 MatchZy plugin integration |
 | **[FLICKED-Server-Maintainer](https://github.com/flickedgg/Server-Maintainer)** | Go agent for auto-updates, restarts & health checks |
 
